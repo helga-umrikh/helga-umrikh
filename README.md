@@ -1,5 +1,8 @@
 ### Hi, I'm Olga! 👋
 
+I'm a 26-year-old frontend developer who is passionate about creating engaging and user-friendly web experiences.
+
+
 <!--
 **helga-umrikh/helga-umrikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
