@@ -1,8 +1,8 @@
 ### Hi, I'm Olga! 👋
 
 I'm a 26-year-old frontend developer who is passionate about creating engaging and user-friendly web experiences.
-
-
+- 🌱 I’m currently learning Tailwind : NextJs
+- 👯 I’m looking to collaborate on React projects. If you have ideas for PET project and need a frontend developer, feel free to ask!
 <!--
 **helga-umrikh/helga-umrikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
