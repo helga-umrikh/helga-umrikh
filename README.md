@@ -26,7 +26,7 @@ I'm a 26-year-old frontend developer who is passionate about creating engaging a
   
     **Tests**: Jest
   
-    **Also**: BEM, NPM, Webpack, ES6
+    **Also**: BEM, NPM, Yarn, Webpack, ES6, Docsify
   </details>
 
   
