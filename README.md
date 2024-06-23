@@ -17,7 +17,7 @@ I'm a 26-year-old frontend developer who is passionate about creating engaging a
     
     **Frameworks**: React, Vue(basic)
   
-    **State managers**: Redux Redux-Toolkit RTK Query
+    **State managers**: Redux Redux-Toolkit RTK Query MobX
   
     **Styling**: CSS, SaSS, Less, Bootstrap, Tailwind
   
