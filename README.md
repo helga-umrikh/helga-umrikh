@@ -6,42 +6,67 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-I'm a 26-year-old frontend developer who is passionate about creating engaging and user-friendly web experiences.
+I'm a frontend developer who is passionate about creating engaging and user-friendly web experiences.
 - 🌱 I’m currently learning NextJs 
-- 👯 I’m looking to collaborate on React projects. If you have ideas for PET project and need a frontend developer, feel free to ask!
-  
-  <details>
-    <summary>⚡ My current Stack:</summary>
-    
-    **Programming languages**: JavaScript, TypeScript
-    
-    **Frameworks**: React, Vue(basic)
-  
-    **State managers**: Redux Redux-Toolkit RTK Query MobX
-  
-    **Styling**: CSS, SaSS, Less, Bootstrap, Tailwind
-  
-    **VCS**: Git, GitHub, GitLab
-  
-    **Component libraries**: MaterialUI, AntDesign, MUI, styled-components, Swiper
-  
-    **Tests**: Jest
-  
-    **Also**: BEM, NPM, Yarn, Webpack, ES6, Docsify
-  </details>
+- 👯 I’m looking to collaborate on React projects. If you have ideas for a project and need a frontend developer, feel free to ask!
+     
+## Skills
 
-  
-<!--
-**helga-umrikh/helga-umrikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🖥️ Programming Languages & Core Web Technologies
+- HTML  
+- CSS  
+- JavaScript (ES6)  
+- TypeScript  
 
-Here are some ideas to get you started:
+#### ⚛️ Frontend Frameworks & State Management
+- React  
+- Redux / Redux Toolkit  
+- MobX  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎨  Styling & UI Libraries
+- BEM  
+- Bootstrap  
+- Tailwind CSS  
+- SCSS / Less  
+- styled-components  
+- Material UI (MUI)  
+- Ant Design  
+- Swiper  
+
+#### 🛠️ Development Tools & Build Systems
+- NPM / Yarn  
+- Webpack  
+- Docsify  
+
+#### 🗄️ Backend & Infrastructure
+- Node.js (basic) 
+- Docker
+- REST API  
+
+#### 📊 Monitoring & Logging
+- Kibana  
+- Sentry  
+- Coroot  
+- Prometheus  
+
+#### 🗃️ Version Control
+- Git  
+- GitHub  
+- GitLab  
+- Bitbucket  
+
+#### 🧪 Testing
+- Jest  
+- Playwright  
+- Wiremock  
+
+#### 🔤 Languages
+- Russian - Native
+- English — B2
+
+
+## Contacts
+
+- ✈️ Telegram: [@helga_umrikh](https://t.me/helga_umrikh)
+- 📧 Email: zetaumr@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/olga-umrikhina](http://www.linkedin.com/in/olga-umrikhina)
