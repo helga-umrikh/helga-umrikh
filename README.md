@@ -19,7 +19,7 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 - TypeScript  
 
 #### ⚛️ Frontend Frameworks & State Management
-- React  
+- React (CSR / SSR / SSG)
 - Redux / Redux Toolkit  
 - MobX  
 
