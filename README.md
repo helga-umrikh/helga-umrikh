@@ -62,7 +62,7 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 
 #### 🔤 Languages
 - Russian - Native
-- English — B2
+- English — B2-C1
 
 
 ## Contacts
