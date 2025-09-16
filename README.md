@@ -21,7 +21,8 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 #### ⚛️ Frontend Frameworks & State Management
 - React (CSR / SSR / SSG)
 - Redux / Redux Toolkit  
-- MobX  
+- MobX
+- Zustand 
 
 #### 🎨  Styling & UI Libraries
 - BEM  
