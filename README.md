@@ -7,7 +7,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 I'm a frontend developer who is passionate about creating engaging and user-friendly web experiences.
-- 🌱 I’m currently learning NextJs 
 - 👯 I’m looking to collaborate on React projects. If you have ideas for a project and need a frontend developer, feel free to ask!
      
 ## Skills
