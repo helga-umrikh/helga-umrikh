@@ -23,7 +23,7 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 | 🖥️ Programming & Web | HTML, CSS, JavaScript (ES6), TypeScript |
 | ⚛️ Frontend & State | React (CSR/SSR/SSG), Nextjs, Redux, Redux Toolkit, MobX, Zustand |
 | 🎨 Styling & UI | BEM, Bootstrap, Tailwind CSS, SCSS/Less, styled-components, Material UI, Ant Design, Swiper |
-| 🛠️ Dev Tools | NPM/Yarn, Webpack, Docsify |
+| 🛠️ Dev Tools | NPM/Yarn, Webpack, Vite, Docsify |
 | 🗄️ Backend & Infra | Node.js (basic), Docker, REST API |
 | 📊 Monitoring | Kibana, Sentry, Coroot, Prometheus |
 | 🗃️ Version Control | Git, GitHub, GitLab, Bitbucket |
