@@ -22,12 +22,12 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 |----------|-------------|
 | 🖥️ Programming & Web | HTML, CSS, JavaScript (ES6), **TypeScript** |
 | ⚛️ Frontend & State | **React** (CSR/SSR/SSG), Nextjs, Redux, Redux Toolkit, MobX, Zustand |
-| 🎨 Styling | CSS, BEM, SCSS/Less, styled-components, CSS Modules | 
+| 🎨 Styling | CSS, BEM, SCSS/Less, styled-components, **CSS-in-JS (emotion, stitches)**, CSS Modules |
 | 🧩 UI Libraries & Design Systems | Material UI, Ant Design, Bootstrap, Tailwind CSS, Swiper |
 | 💫 Animation | Framer Motion, GSAP, Lottie |
 | 🛠️ Dev Tools | NPM/Yarn, Webpack, Vite, Docsify |
-| 🗄️ Backend & Infra | Node.js (basic), Docker, REST API |
-| 📊 Monitoring | Kibana, Sentry, Coroot, Prometheus |
+| 🗄️ Backend & Infra | Node.js, Docker, REST API, GraphQL, Apollo Server |
+| 📊 Monitoring & Logging  | Kibana, Sentry, Coroot, Prometheus |
 | 🗃️ Version Control | Git, GitHub, GitLab, Bitbucket |
 | 🧪 Testing | Jest, Playwright, Wiremock |
 | 🔤 Languages | Russian (Native), English (B2-C1) |
