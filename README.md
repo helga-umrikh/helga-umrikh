@@ -26,7 +26,7 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 | 🧩 UI Libraries & Design Systems | Material UI, Ant Design, Bootstrap, Tailwind CSS, Swiper |
 | 💫 Animation | Framer Motion, GSAP, Lottie |
 | 🛠️ Dev Tools | NPM/Yarn, Webpack, Vite, Docsify |
-| 🗄️ Backend & Infra | Node.js, Docker, REST API, GraphQL, Apollo Server |
+| 🗄️ Backend & Infra | Node.js, REST API, WebSocket, GraphQL, Apollo Server, Docker, |
 | 📊 Monitoring & Logging  | Kibana, Sentry, Coroot, Prometheus |
 | 🗃️ Version Control | Git, GitHub, GitLab, Bitbucket |
 | 🧪 Testing | Jest, Playwright, Wiremock |
