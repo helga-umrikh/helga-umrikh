@@ -37,4 +37,5 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 
 |App name and Repository link | Deploy link | Technologies |
 |----------|-------------|-------------|
-|[Ingenium movie observer ](https://github.com/helga-umrikh/Ingenium-Movies) | https://helga-umrikh.github.io/Ingenium-Movies/ | React, Typescript, HTML, CSS, JavaScript (ES6) <br/> Webpack, StyledComponent, Docker, Express |
+|🎬 [Ingenium movie observer ](https://github.com/helga-umrikh/Ingenium-Movies) | https://helga-umrikh.github.io/Ingenium-Movies/ | React, Typescript, HTML, CSS, JavaScript (ES6) <br/> Webpack, StyledComponent, Docker, Express |
+|🎮 [Free To Play Games ](https://github.com/helga-umrikh/Free-To-Play-Games) | https://helga-umrikh.github.io/Free-To-Play-Games/ | React, TypeScript, HTML, CSS, JavaScript (ES6) <br/> CRA, Ant Design |
