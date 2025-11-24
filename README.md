@@ -32,3 +32,9 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 | 🧪 Testing | Jest, Playwright, Wiremock |
 | 🔤 Languages | Russian (Native), English (B2-C1) |
 
+
+## My recent projects
+
+|App name and Repository link | Deploy link | Technologies |
+|----------|-------------|-------------|
+|[Ingenium movie observer ](https://github.com/helga-umrikh/Ingenium-Movies) | https://helga-umrikh.github.io/Ingenium-Movies/ | React, Typescript, HTML, CSS, JavaScript (ES6) <br/> Webpack, StyledComponent, Docker, Express |
