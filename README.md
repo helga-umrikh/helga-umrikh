@@ -20,9 +20,9 @@ I'm a frontend developer who is passionate about creating engaging and user-frie
 ## Skills
 | Category | Technologies |
 |----------|-------------|
-| 🖥️ Programming & Web | HTML, CSS, JavaScript (ES6), **TypeScript** |
-| ⚛️ Frontend & State | **React** (CSR/SSR/SSG), Next.js, Redux, Redux Toolkit, MobX, Zustand |
-| 🎨 Styling | CSS, BEM, SCSS, Less, styled-components, **CSS-in-JS (emotion, stitches)**, CSS Modules |
+| 🖥️ Programming & Web | HTML, CSS, JavaScript (ES6), TypeScript |
+| ⚛️ Frontend & State | React (CSR/SSR/SSG), Next.js, Redux, Redux Toolkit, MobX, Zustand |
+| 🎨 Styling | CSS, BEM, SCSS, Less, styled-components, CSS-in-JS (emotion, stitches), CSS Modules |
 | 🧩 UI Libraries & Design Systems | Material UI, Ant Design, Bootstrap, Tailwind CSS, Swiper |
 | 💫 Animation | Framer Motion, GSAP, Lottie |
 | 🛠️ Dev Tools | NPM, Yarn, Webpack, Vite, Docker, |
